@@ -1,0 +1,14 @@
+{
+  "name": "resetless",
+  "description": "Customized reset and clearfix for LESS",
+  "main": "reset.less",
+  "keywords": [
+    "less",
+    "reset",
+    "clearfix"
+  ],
+  "authors": [
+    { "name": "Michal Rusina", "email": "email@michalrusina.sk", "homepage": "http://michalrusina.sk" }
+  ],
+  "license": "MIT"
+}
